@@ -5,6 +5,7 @@
 # Python
 *.pyc
 venv
+__*__
 
 # Secrets
 .env
